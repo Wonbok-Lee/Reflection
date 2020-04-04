@@ -1,0 +1,24 @@
+h1{
+    height: 200px;
+    background: red; 
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); 
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); 
+    text-align: center;
+    font-size: 5vw;
+    color: white;
+}
+
+#paragraph{
+    font-style: normal;
+    font-size: 1vw;
+}
+
+body{
+	background-color: #ffe9ec;
+}
+
+footer {
+	text-align: center;
+}
